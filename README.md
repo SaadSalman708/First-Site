@@ -1,2 +1,4 @@
 # First-Site
-First website. Assignment #1. Smit Project.
+Assignment #1.
+<br />
+Smit Project.
